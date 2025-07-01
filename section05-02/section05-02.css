@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+    background-color: darkgrey;
+    color: azure;
+}
+
+li:hover{
+    background-color: dimgray;
+    color: azure;
+
+}
