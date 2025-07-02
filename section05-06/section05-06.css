@@ -1,0 +1,127 @@
+/*bai1_batdau*/
+.content div{
+    width: 498px;
+    height: 20px;
+    background-color: rgba(128, 128, 128, 80%);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.nd1 {
+    background-color: azure;
+    position: relative;
+    top: 300px;
+    left: 24px;
+}
+
+.img1 {
+    position: relative;
+    top: -1px;
+    left: 190px;
+
+}
+.img2{
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+}
+p{
+    margin-left: 25px;
+    background-color: bisque;
+    width: 500px;
+    height: 50px;
+    margin-top: 0px;
+}
+/*bai1_ketthuc*/
+
+
+/*bai2_batdau*/
+.content2 div{
+    margin-top: 10px;
+
+}
+
+.nd2 {
+    background-color: brown;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    top: 150px;
+    left: 30px;
+}
+
+
+.nd3 {
+    background-color: none;
+    color: rgb(248, 5, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: 100px;
+    height: 70px;
+    text-align: center;
+    top: 240px;
+    left: 15px;
+}
+
+.img3{
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+    border-radius: 1cm;
+}
+
+/*bai2_batdau*/
+
+/*bai3_batdau*/
+.content3 div{
+    margin-top: 10px;
+}
+
+.nd4 {
+    background-color: white;
+    color: rgb(248, 5, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: 270px;
+    height: 30px;
+    text-align: center;
+    top: 110px;
+    left: 0px;
+}
+
+.nd5 {
+    background-color: rgba(128, 128, 128, 80%);
+    color: rgb(8, 4, 243);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    top: 110px;
+    left: 0px;
+}
+.nd5:hover {
+    background-color: rgba(228, 19, 19, 0.8);
+    color: rgb(0, 0, 8);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    top: 110px;
+    left: 0px;
+}
+
+
+
+.img4{
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+    border-radius: 1cm;
+}
+
+/*bai3_ketthuc*/
